@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Pearl Park
+### Hi there 👋 my username is ppark123
 
 <!--
 **ppark123/ppark123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
